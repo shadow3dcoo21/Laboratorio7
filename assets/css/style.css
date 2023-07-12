@@ -1,0 +1,15 @@
+.espacio{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    background-color: red;
+}
+.hov:hover{
+    color: rebeccapurple;
+}
+.content{
+    width: 80%;
+    margin: auto;
+    background-color: transparent;
+    justify-content: center;
+}

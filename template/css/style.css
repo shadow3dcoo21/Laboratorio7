@@ -1,0 +1,13 @@
+*{
+    background-color: orange;
+    position: absolute;
+}
+.espacio{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    background-color: red;
+}
+.hov:hover{
+    color: rebeccapurple;
+}
